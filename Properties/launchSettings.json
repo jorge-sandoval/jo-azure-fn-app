@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "jo_azure_fn_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7071",
+      "launchBrowser": false
+    }
+  }
+}
